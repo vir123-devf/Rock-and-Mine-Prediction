@@ -33,8 +33,6 @@ The primary goal is to build a model that can accurately predict whether a sonar
    - Once trained, the model can be used to predict the class (rock or mine) for new sonar data points.
    - The model outputs a probability, allowing you to determine the likelihood of a given signal being a rock or a mine.
 
-
-
 **Requirements**
 
 - Python (version specification)
