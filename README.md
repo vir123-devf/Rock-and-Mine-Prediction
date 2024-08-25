@@ -35,7 +35,7 @@ The primary goal is to build a model that can accurately predict whether a sonar
 
 **Requirements**
 
-- Python (version specification)
+- Python(pycharm or other)
 - Essential libraries (e.g., NumPy, pandas, scikit-learn)
 
 **Getting Started**
