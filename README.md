@@ -40,7 +40,7 @@ The primary goal is to build a model that can accurately predict whether a sonar
 
 **Getting Started**
 
-1. Clone this repository: `git clone https://github.com/<your-username>/rock-mine-prediction.git`
+1. Clone this repository: `https://github.com/vir123-devf/rock-mine-prediction.git`
 2. Run the training script: `python train_model.py` (or similar)
 
 -THANK YOU
